@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ONG_ANIMAL", "AgendaTelefone\ONG_ANIMAL.csproj", "{4052EFB6-A301-4408-BE96-7C445414FA57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4052EFB6-A301-4408-BE96-7C445414FA57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4052EFB6-A301-4408-BE96-7C445414FA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4052EFB6-A301-4408-BE96-7C445414FA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4052EFB6-A301-4408-BE96-7C445414FA57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9D2F568-996C-4DBF-A7C3-9C841C02B518}
+	EndGlobalSection
+EndGlobal
